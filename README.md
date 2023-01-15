@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m learning css, javascript and react
 - 😄 Pronouns: she/her
 
 <div align="center">
