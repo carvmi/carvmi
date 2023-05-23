@@ -1,5 +1,5 @@
 Hi there 👋
 
-- 🌱 I’m learning css, javascript, node.js, react
+- 🌱 I’m learning javascript, node.js, react and typescript
 - 😄 Pronouns: she/her
 
