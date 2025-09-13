@@ -1,8 +1,6 @@
 
 
 <div align="center">
- 
- 🔭 Estudante de Análise e Desenvolvimento de Sistemas
 
  👔 Entusiasta Java 
  
