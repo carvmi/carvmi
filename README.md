@@ -2,7 +2,7 @@
 
 <div align="center">
  
- 🔭 Estudante de Análise e Desenvolvimento de Sistemas
+ 🔭 Estudante de Ciência da Computação
 
  👔 Entusiasta Java 
  
