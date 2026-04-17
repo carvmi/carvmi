@@ -2,7 +2,7 @@
 
 <div align="center">
 
- 👔 Entusiasta Java 
+ 👔 My work combines full-stack development, process automation, and cloud computing, always focused on building systems that truly support decision-making and optimize people’s work. I believe technology creates more value when it brings together solid engineering, reliable data, and well-structured processes. That intersection is where I aim to operate. 
  
  </div>
  
